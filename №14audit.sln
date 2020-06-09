@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "№14audit", "№14audit\№14audit.vcxproj", "{39FA221E-4EA3-4471-B524-613373BD0DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Debug|x64.ActiveCfg = Debug|x64
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Debug|x64.Build.0 = Debug|x64
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Debug|x86.Build.0 = Debug|Win32
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Release|x64.ActiveCfg = Release|x64
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Release|x64.Build.0 = Release|x64
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Release|x86.ActiveCfg = Release|Win32
+		{39FA221E-4EA3-4471-B524-613373BD0DD6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE572EAE-39D4-43C4-B961-06CBF07F4479}
+	EndGlobalSection
+EndGlobal
